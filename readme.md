@@ -126,6 +126,8 @@
 
 ## Módulo 02:
 
+---
+
 #### Capítulo 13:
 
 - [ ] 13.0 – O que vamos aprender no módulo 02?
