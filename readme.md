@@ -2,7 +2,8 @@
 
 Projeto criado no curso de HTML5 e CSS3 no curso em vídeo com Gustavo Guanabara.
 
-## Sub título1:
+##### Módulo 01
 
-##### Sub título2 [...](link ...)
-- [x] - ...
+- [x] - Conteúdo para o Curso de HTML5 e CSS3
+
+- [x] Capítulo 1 Aula 0 – O que vamos aprender no módulo 01?
