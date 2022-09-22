@@ -2,6 +2,7 @@
 
 >Projeto criado no curso de HTML5 e CSS3 no curso em vídeo com Gustavo Guanabara.
 
+
 ## Módulo 01:
 
 #### Capítulo 1:
@@ -16,13 +17,11 @@
 
 - [x] 1.4 – Como a Internet chega na minha casa?
 
-
 #### Capítulo 2:
 
 - [x] 2.1 – Como a Internet funciona?
 
 - [x] 2.2 – O que é domínio e hospedagem?
-
 
 #### Capítulo 3:
 
@@ -30,20 +29,17 @@
 
 - [x] 3.2 – Front-end, Back-end e Full stack
 
-
 #### Capítulo 4:
 
 - [x] 4.1 – Instalando todas as ferramentas
 
 - [x] 4.2 – Seu primeiro código HTML
 
-
 #### Capítulo 5:
 
 - [x] 5.1 – Parágrafos e Quebras
 
 - [x] 5.2 – Símbolos e Emoji no seu site
-
 
 #### Capítulo 6:
 
@@ -57,11 +53,9 @@
 
 - [x] 6.5 – Como mudar o favicon de um site
 
-
 #### Capítulo 7:
 
 - [x] 7.1 – Hierarquia de Títulos
-
 
 #### Capítulo 8:
 
@@ -73,13 +67,11 @@
 
 - [ ] 8.4 – Citações e Códigos
 
-
 #### Capítulo 9:
 
 - [ ] 9.1 – Listas OL e UL
 
 - [ ] 9.2 – Listas mistas e de definição
-
 
 #### Capítulo 10:
 
@@ -90,7 +82,6 @@
 - [ ] 10.3 – Links para download
 
 - [ ] 10.4 – Desafios propostos
-
 
 #### Capítulo 11:
 
@@ -108,7 +99,6 @@
 
 - [ ] 11.7 – Desafio: um site com vídeos
 
-
 #### Capítulo 12:
 
 - [ ] 12.1 – Estilos CSS inline
@@ -117,16 +107,12 @@
 
 - [ ] 12.3 – Estilos CSS externos
 
-
 #### Fim do Módulo 1:
 
 - [ ] Fim do Módulo 1
 
----
 
 ## Módulo 02:
-
----
 
 #### Capítulo 13:
 
@@ -145,7 +131,6 @@
 - [ ] 13.6 – Como criar degradê com CSS ?
 
 - [ ] 13.7 – Criando um exemplo real
-
 
 #### Capítulo 14:
 
@@ -169,7 +154,6 @@
 
 - [ ] 14.10 – Alinhamento de textos com CSS
 
-
 #### Capítulo 15:
 
 - [ ] 15.1 – Usando o id com CSS
@@ -179,7 +163,6 @@
 - [ ] 15.3 – Pseudo-classes em CSS
 
 - [ ] 15.4 – Pseudo-elementos em CSS
-
 
 #### Capítulo 16:
 
@@ -198,7 +181,6 @@
 - [ ] 16.7 – Bordas decoradas
 
 - [ ] 16.8 – DESAFIO do Módulo 2
-
 
 #### Capítulo 17:
 
@@ -225,7 +207,6 @@
 - [ ] 17.11 – Rodapé, conteúdo periférico e links
 
 - [ ] 17.12 – Tornando um vídeo responsivo
-
 
 #### Fim do Módulo 2:
 
