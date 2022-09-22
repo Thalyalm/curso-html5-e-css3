@@ -107,10 +107,6 @@
 
 - [ ] 12.3 – Estilos CSS externos
 
-#### Fim do Módulo 1:
-
-- [ ] Fim do Módulo 1
-
 
 ## Módulo 02:
 
@@ -207,10 +203,6 @@
 - [ ] 17.11 – Rodapé, conteúdo periférico e links
 
 - [ ] 17.12 – Tornando um vídeo responsivo
-
-#### Fim do Módulo 2:
-
-- [ ] Fim do Módulo 2: certificados liberados
 
 
 ## Módulo 03:
