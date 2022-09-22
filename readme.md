@@ -1,6 +1,6 @@
 # Curso HTML5 e CSS3
 
->Projeto criado no curso de HTML5 e CSS3 no curso em vídeo com Gustavo Guanabara.
+>Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoemvideo.com/) com Gustavo Guanabara.
 
 
 ## Módulo 01:
