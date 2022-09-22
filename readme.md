@@ -215,6 +215,93 @@
 
 ## Módulo 03:
 
+#### Capítulo 18:
+
+- [ ] 18.0 – O que vamos aprender no módulo 3?
+
+- [ ] 18.1 – O que é Git e GitHub?
+
+- [ ] 18.2 – Instalando Git e GitHub no PC
+
+- [ ] 18.3 – Criando conta no GitHub
+
+- [ ] 18.4 – Primeiro repositório git e GitHub
+
+- [ ] 18.5 – Gerenciando Repositórios GitHub
+
+- [ ] 18.6 – Hospedando site gratuitamente com 
+GitHub Pages
+
+- [ ] 18.7 – Manutenção em sites hospedados no GitHub Pages
+
+- [ ] 18.8 – Recursos Sociais do GitHub
+
+- [ ] 18.9 – Clonando Repositórios GitHub
+
+- [ ] 18.10 – GitHub em vários PCs
+
+#### Capítulo 19:
+
+- [ ] 19.1- Download das imagens do capítulo
+
+- [ ] 19.2 – Colocando uma imagem de fundo no seu site
+
+- [ ] 19.3 – Imagens que se repetem no fundo do site
+
+- [ ] 19.4 – Configurando a posição da imagem no fundo do site
+
+- [ ] 19.5 – Mudando o tamanho da imagem de fundo do site
+
+- [ ] 19.6 – background-attachment e shorthand
+
+- [ ] 19.7 – Centralização vertical de caixas
+
+#### Capítulo 20:
+
+- [ ] 20.1 – Um projeto completo usando HTML e CSS
+
+- [ ] 20.2 – Download e organização dos arquivos
+
+- [ ] 20.3 – Ajustes no HTML do projeto
+
+- [ ] 20.4 – Ajustes no CSS do projeto
+
+- [ ] 20.5 – Colocando as fontes ao projeto
+
+- [ ] 20.6 – Imagens com efeito Parallax simples
+
+- [ ] 20.7 – Hospedando o Projeto Cordel gratuitamente
+
+#### Capítulo 21:
+
+- [ ] 21.1 – Ainda podemos usar tabelas em HTML?
+
+- [ ] 21.2 – Sua primeira tabela em HTML
+
+- [ ] 21.3 – Alinhando o conteúdo em tabelas
+
+- [ ] 21.4 – Aprendendo a trabalhar com tabelas grandes
+
+- [ ] 21.5 – Caption e Escopo de títulos em tabelas
+
+- [ ] 21.6 – Efeito Zebrado na tabela com HTML e CSS
+
+- [ ] 21.7 – Cabeçalho fixo em tabelas grandes
+
+- [ ] 21.8 – Mesclagem de células
+
+- [ ] 21.9 – Desafios (parte 1)
+
+- [ ] 21.10 – Exemplo de tabela completa
+
+- [ ] 21.11 – Escopos de grupo
+
+- [ ] 21.12 – Desafios (parte 2)
+
+- [ ] 21.13 – Agrupando Colunas com colgroup
+
+- [ ] 21.14 – Tabelas responsivas
+
 ## Módulo 04:
 
 ## Módulo 05:
