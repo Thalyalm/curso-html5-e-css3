@@ -176,7 +176,7 @@
 
 - [ ] 16.7 – Bordas decoradas
 
-- [ ] 16.8 – DESAFIO do Módulo 2
+- [ ] 16.8 – Desafio do módulo 2
 
 #### Capítulo 17:
 
@@ -233,7 +233,7 @@
 
 #### Capítulo 19:
 
-- [ ] 19.1- Download das imagens do capítulo
+- [ ] 19.1 - Download das imagens do capítulo
 
 - [ ] 19.2 – Colocando uma imagem de fundo no seu site
 
@@ -243,7 +243,7 @@
 
 - [ ] 19.5 – Mudando o tamanho da imagem de fundo do site
 
-- [ ] 19.6 – background-attachment e shorthand
+- [ ] 19.6 – Background-attachment e shorthand
 
 - [ ] 19.7 – Centralização vertical de caixas
 
