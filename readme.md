@@ -61,7 +61,7 @@
 
 - [x] 8.1 – Semântica na HTML5 é importante
 
-- [ ] 8.2 – Negrito e Itálico do jeito certo
+- [x] 8.2 – Negrito e Itálico do jeito certo
 
 - [ ] 8.3 – Formatações adicionais em HTML
 
