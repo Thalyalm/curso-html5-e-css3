@@ -332,7 +332,7 @@
 
 - [ ] 23.7 – Personalizando as imagens do projeto
 
-### Capítulo 24:
+#### Capítulo 24:
 
 - [ ] 24.1 – Como criar formulários com HTML5
 
@@ -356,7 +356,7 @@
 
 - [ ] 24.11 – Elemento output em formulários HTML
 
-### Capítulo 25:
+#### Capítulo 25:
 
 - [ ] 25.1 – O que são Media Queries em CSS
 
@@ -382,7 +382,7 @@
 
 - [ ] 25.12 – Media Queries para outros dispositivos
 
-### Capítulo 26:
+#### Capítulo 26:
 
 - [ ] 26.1 – Tela de login responsiva só com HTML e CSS
 
