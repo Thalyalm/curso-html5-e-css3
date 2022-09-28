@@ -63,7 +63,7 @@
 
 - [x] Aula 8.2 – Negrito e Itálico do jeito certo
 
-- [x] Aula 8.3 – Formatações adicionais em HTML
+- [ ] Aula 8.3 – Formatações adicionais em HTML
 
 - [ ] Aula 8.4 – Citações e Códigos
 
