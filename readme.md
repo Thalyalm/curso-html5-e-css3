@@ -107,6 +107,7 @@
 
 - [ ] Aula 12.3 – Estilos CSS externos
 
+---
 
 ### Módulo 02:
 
@@ -204,6 +205,7 @@
 
 - [ ] Aula 17.12 – Tornando um vídeo responsivo
 
+---
 
 ### Módulo 03:
 
@@ -293,6 +295,7 @@
 
 - [ ] Aula 21.14 – Tabelas responsivas
 
+---
 
 ### Módulo 04:
 
