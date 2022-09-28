@@ -257,3 +257,5 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [ ] Aula 26.1 – Tela de login responsiva só com HTML e CSS
 - [ ] Aula 26.2 – Versão mobile first da tela de login
 - [ ] Aula 26.3 – Outras Media Queries para o projeto
+
+---
