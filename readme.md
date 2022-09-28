@@ -3,7 +3,7 @@
 >Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoemvideo.com/) com [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
 
-## Módulo 01:
+### Módulo 01:
 
 #### Capítulo 1:
 
@@ -108,7 +108,7 @@
 - [ ] Aula 12.3 – Estilos CSS externos
 
 
-## Módulo 02:
+### Módulo 02:
 
 #### Capítulo 13:
 
@@ -205,7 +205,7 @@
 - [ ] Aula 17.12 – Tornando um vídeo responsivo
 
 
-## Módulo 03:
+### Módulo 03:
 
 #### Capítulo 18:
 
@@ -294,7 +294,7 @@
 - [ ] Aula 21.14 – Tabelas responsivas
 
 
-## Módulo 04:
+### Módulo 04:
 
 #### Capítulo 22:
 
