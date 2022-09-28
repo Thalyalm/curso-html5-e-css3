@@ -3,7 +3,7 @@
 >Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoemvideo.com/) com [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
 
-## Módulo 0:
+## Módulo 01:
 
 #### Capítulo 1:
 
