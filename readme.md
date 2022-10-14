@@ -50,7 +50,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 - [x] Aula 1.8 – Semântica na HTML5 é importante
 - [x] Aula 2.8 – Negrito e Itálico do jeito certo
-- [ ] Aula 3.8 – Formatações adicionais em HTML
+- [x] Aula 3.8 – Formatações adicionais em HTML
 - [ ] Aula 4.8 – Citações e Códigos
 
 #### Capítulo 9:
