@@ -55,8 +55,8 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 9:
 
-- [ ] Aula 1.9 – Listas OL e UL
-- [ ] Aula 2.9 – Listas mistas e de definição
+- [x] Aula 1.9 – Listas OL e UL
+- [x] Aula 2.9 – Listas mistas e de definição
 
 #### Capítulo 10:
 
