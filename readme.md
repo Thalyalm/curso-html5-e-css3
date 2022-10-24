@@ -60,8 +60,8 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 10:
 
-- [ ] Aula 1.10 – Links e Âncoras em HTML5
-- [ ] Aula 2.10 – Links Internos
+- [x] Aula 1.10 – Links e Âncoras em HTML5
+- [x] Aula 2.10 – Links Internos
 - [ ] Aula 3.10 – Links para download
 - [ ] Aula 4.10 – Desafios propostos
 
