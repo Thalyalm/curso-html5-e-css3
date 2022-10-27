@@ -67,7 +67,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 11:
 
-- [ ] Aula 1.11 – Imagens Dinâmicas
+- [x] Aula 1.11 – Imagens Dinâmicas
 - [ ] Aula 2.11 – Imagens que se adaptam sozinhas
 - [ ] Aula 3.11 – Colocando áudio no seu site
 - [ ] Aula 4.11 – Formatos de vídeo para seu site
