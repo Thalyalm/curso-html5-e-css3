@@ -224,17 +224,17 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 24:
 
-- [ ]  1.24 – Como criar formulários com HTML5
-- [ ]  2.24 – Usar Label vai melhorar seus formulários
-- [ ]  3.24 – Métodos GET e POST para formulários
-- [ ]  4.24 – Criando caixas de texto e de senha
-- [ ]  5.24 – Elementos number, month, date e time em formulários HTML
-- [ ]  6.24– Compatibilidade com navegadores
-- [ ]  7.24– Formulários com telefone e e-mail
-- [ ]  8.24– Checkbox e Radio button em HTML
-- [ ]  9.24– Elementos color, range e file em HTML
-- [ ]  10.24 – Select, datalist e textarea em HTML
-- [ ]  11.24 – Elemento output em formulários HTML
+- [ ] 1.24 – Como criar formulários com HTML5
+- [ ] 2.24 – Usar Label vai melhorar seus formulários
+- [ ] 3.24 – Métodos GET e POST para formulários
+- [ ] 4.24 – Criando caixas de texto e de senha
+- [ ] 5.24 – Elementos number, month, date e time em formulários HTML
+- [ ] 6.24– Compatibilidade com navegadores
+- [ ] 7.24– Formulários com telefone e e-mail
+- [ ] 8.24– Checkbox e Radio button em HTML
+- [ ] 9.24– Elementos color, range e file em HTML
+- [ ] 10.24 – Select, datalist e textarea em HTML
+- [ ] 11.24 – Elemento output em formulários HTML
 
 #### Capítulo 25:
 
