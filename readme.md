@@ -22,7 +22,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 3:
 
 - [x] 1.3 – A diferença entre HTML, CSS e JavaScript
-- [x].3 – Front-end, Back-end e Full stack
+- [x] 2.3 – Front-end, Back-end e Full stack
 
 #### Capítulo 4:
 
