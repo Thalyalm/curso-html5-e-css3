@@ -9,14 +9,19 @@
 <body>
     <h1>Vídeos em HTML5</h1>
     <h2>Inserindo vídeos hospedados localmente:</h2>
-    <p>Esse video está hospedado em meu próprio servidor.</p>
-    <video src="videos/meu-video.mp4" width="425" poster="imagens/limoes-capa.png" controls autoplay loop></video>
-    <video width="425" poster="imagens/limoes-capa.png" controls>
+    <p>Esses videos estão hospedados em meu próprio servidor.</p>
+    <video src="videos/meu-video.mp4" width="560" poster="imagens/limoes-capa.png" controls autoplay loop></video>
+    <video width="560" poster="imagens/limoes-capa.png" controls>
         <source src="videos/meu-video.mp4" type="video/mp4">
         <source src="videos/meu-video.m4v" type="video/ogg">
         <source src="videos/meu-video.webm" type="video/webm">
         <source src="videos/meu-video.ogv" type="video/ogg">
         <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
     </video>
+    <h2>Incorporação de vídeos externos:</h2>
+    <p>Esse video está hospedado no YouTube.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/45UQSmiMGaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Esse video está hospeado no Vimeo:</p>
+    <iframe src="https://player.vimeo.com/video/216058246?h=ada099a32b&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="560" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
