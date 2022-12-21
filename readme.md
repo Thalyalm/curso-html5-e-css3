@@ -72,7 +72,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 3.11 – Colocando áudio no seu site
 - [x] 4.11 – Formatos de vídeo para seu site
 - [x] 5.11 – Vídeos em hospedagem própria
-- [ ] 6.11 – Incorporação de vídeos externos
+- [x] 6.11 – Incorporação de vídeos externos
 - [ ] 7.11 – Desafio: um site com vídeos
 
 #### Capítulo 12:
