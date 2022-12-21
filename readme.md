@@ -77,7 +77,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 12:
 
-- [ ] 1.12 – Estilos CSS inline
+- [x] 1.12 – Estilos CSS inline
 - [ ] 2.12 – Estilos CSS internos
 - [ ] 3.12 – Estilos CSS externos
 
