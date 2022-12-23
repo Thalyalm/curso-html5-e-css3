@@ -181,15 +181,15 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [ ] 7.20 – Hospedando o Projeto Cordel gratuitamente
 
 #### Capítulo
-- [ ] 1.21– Ainda podemos usar tabelas em HTML?
-- [ ] 2.21– Sua primeira tabela em HTML
-- [ ] 3.21– Alinhando o conteúdo em tabelas
-- [ ] 4.21– Aprendendo a trabalhar com tabelas grandes
-- [ ] 5.21– Caption e Escopo de títulos em tabelas
-- [ ] 6.21– Efeito Zebrado na tabela com HTML e CSS
-- [ ] 7.21– Cabeçalho fixo em tabelas grandes
-- [ ] 8.21– Mesclagem de células
-- [ ] 9.21– Desafios (parte 1)
+- [ ] 1.21 – Ainda podemos usar tabelas em HTML?
+- [ ] 2.21 – Sua primeira tabela em HTML
+- [ ] 3.21 – Alinhando o conteúdo em tabelas
+- [ ] 4.21 – Aprendendo a trabalhar com tabelas grandes
+- [ ] 5.21 – Caption e Escopo de títulos em tabelas
+- [ ] 6.21 – Efeito Zebrado na tabela com HTML e CSS
+- [ ] 7.21 – Cabeçalho fixo em tabelas grandes
+- [ ] 8.21 – Mesclagem de células
+- [ ] 9.21 – Desafios (parte 1)
 - [ ] 10.21 – Exemplo de tabela completa
 - [ ] 11.21 – Escopos de grupo
 - [ ] 12.21 – Desafios (parte 2)
@@ -229,10 +229,10 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [ ] 3.24 – Métodos GET e POST para formulários
 - [ ] 4.24 – Criando caixas de texto e de senha
 - [ ] 5.24 – Elementos number, month, date e time em formulários HTML
-- [ ] 6.24– Compatibilidade com navegadores
-- [ ] 7.24– Formulários com telefone e e-mail
-- [ ] 8.24– Checkbox e Radio button em HTML
-- [ ] 9.24– Elementos color, range e file em HTML
+- [ ] 6.24 – Compatibilidade com navegadores
+- [ ] 7.24 – Formulários com telefone e e-mail
+- [ ] 8.24 – Checkbox e Radio button em HTML
+- [ ] 9.24 – Elementos color, range e file em HTML
 - [ ] 10.24 – Select, datalist e textarea em HTML
 - [ ] 11.24 – Elemento output em formulários HTML
 
