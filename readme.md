@@ -87,9 +87,9 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 13:
 
-- [ ] 0.13 – O que vamos aprender no módulo 02?
-- [ ] 1.13 – Psicologia das Cores
-- [ ] 2.13 – Representando Cores com CSS3
+- [x] 0.13 – O que vamos aprender no módulo 02?
+- [x] 1.13 – Psicologia das Cores
+- [x] 2.13 – Representando Cores com CSS3
 - [ ] 3.13 – Harmonia de cores
 - [ ] 4.13 – Paleta de cores
 - [ ] 5.13 – Como capturar cores da tela?
