@@ -37,7 +37,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 6:
 
 - [x] 1.6 – Você tem o direito de usar qualquer imagem no seu site?
-- [x] 2.6 – Quais são os formatos para imagens na Web?
+- [x] 2.6 – Quais são os formatos para imagens na web?
 - [x] 3.6 – O tamanho das imagens importa para um site?
 - [x] 4.6 – A tag img em HTML5
 - [x] 5.6 – Como mudar o favicon de um site
