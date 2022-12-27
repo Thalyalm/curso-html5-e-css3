@@ -90,10 +90,10 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 0.13 – O que vamos aprender no módulo 02?
 - [x] 1.13 – Psicologia das Cores
 - [x] 2.13 – Representando Cores com CSS3
-- [ ] 3.13 – Harmonia de cores
-- [ ] 4.13 – Paleta de cores
-- [ ] 5.13 – Como capturar cores da tela?
-- [ ] 6.13 – Como criar degradê com CSS ?
+- [x] 3.13 – Harmonia de cores
+- [x] 4.13 – Paleta de cores
+- [x] 5.13 – Como capturar cores da tela?
+- [x] 6.13 – Como criar degradê com CSS?
 - [ ] 7.13 – Criando um exemplo real
 
 #### Capítulo 14:
@@ -119,8 +119,8 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 16:
 
 - [ ] 16.1 – Modelo de Caixas: primeiros passos
-- [ ] 16.2 – Modelo de Caixas na prática (pt.1)
-- [ ] 16.3 – Modelo de Caixas na prática (Pt.2)
+- [ ] 16.2 – Modelo de Caixas na prática (parte 1)
+- [ ] 16.3 – Modelo de Caixas na prática (parte 2)
 - [ ] 16.4 – Grouping Tags em HTML5
 - [ ] 16.5 – Sombra nas Caixas
 - [ ] 16.6 – Caixas com vértices arredondados
