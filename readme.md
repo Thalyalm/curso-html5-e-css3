@@ -31,8 +31,8 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 5:
 
-- [x] 1.5 – Parágrafos e Quebras
-- [x] 2.5 – Símbolos e Emoji no seu site
+- [x] 1.5 – Parágrafos e quebras
+- [x] 2.5 – Símbolos e emoji no seu site
 
 #### Capítulo 6:
 
@@ -44,14 +44,14 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 7:
 
-- [x] 1.7 – Hierarquia de Títulos
+- [x] 1.7 – Hierarquia de títulos
 
 #### Capítulo 8:
 
 - [x] 1.8 – Semântica na HTML5 é importante
-- [x] 2.8 – Negrito e Itálico do jeito certo
+- [x] 2.8 – Negrito e ttálico do jeito certo
 - [x] 3.8 – Formatações adicionais em HTML
-- [x] 4.8 – Citações e Códigos
+- [x] 4.8 – Citações e códigos
 
 #### Capítulo 9:
 
@@ -60,14 +60,14 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 10:
 
-- [x] 1.10 – Links e Âncoras em HTML5
-- [x] 2.10 – Links Internos
+- [x] 1.10 – Links e âncoras em HTML5
+- [x] 2.10 – Links internos
 - [x] 3.10 – Links para download
 - [x] 4.10 – Desafios propostos
 
 #### Capítulo 11:
 
-- [x] 1.11 – Imagens Dinâmicas
+- [x] 1.11 – Imagens dinâmicas
 - [x] 2.11 – Imagens que se adaptam sozinhas
 - [x] 3.11 – Colocando áudio no seu site
 - [x] 4.11 – Formatos de vídeo para seu site
@@ -88,8 +88,8 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 13:
 
 - [x] 0.13 – O que vamos aprender no módulo 02?
-- [x] 1.13 – Psicologia das Cores
-- [x] 2.13 – Representando Cores com CSS3
+- [x] 1.13 – Psicologia das cores
+- [x] 2.13 – Representando cores com CSS3
 - [x] 3.13 – Harmonia de cores
 - [x] 4.13 – Paleta de cores
 - [x] 5.13 – Como capturar cores da tela?
@@ -98,12 +98,12 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 14:
 
-- [ ] 1.14 – Primeiros passos em Tipografia
+- [ ] 1.14 – Primeiros passos em tipografia
 - [ ] 2.14 – Anatomia do tipo
 - [ ] 3.14 – Famílias de fonte com CSS
 - [ ] 4.14 – Tamanho de fonte e suas medidas
 - [ ] 5.14 – Peso, estilo e shorthand font
-- [ ] 6.14 – Usando Google Fonts
+- [ ] 6.14 – Usando google fonts
 - [ ] 7.14 – Usando fontes externas baixadas
 - [ ] 8.14 – Capturando as fontes usadas em um site
 - [ ] 9.14 – Detectando fontes dentro de imagens
@@ -118,11 +118,11 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 16:
 
-- [ ] 16.1 – Modelo de Caixas: primeiros passos
-- [ ] 16.2 – Modelo de Caixas na prática (parte 1)
+- [ ] 16.1 – Modelo de caixas: primeiros passos
+- [ ] 16.2 – Modelo de caixas na prática (parte 1)
 - [ ] 16.3 – Modelo de Caixas na prática (parte 2)
-- [ ] 16.4 – Grouping Tags em HTML5
-- [ ] 16.5 – Sombra nas Caixas
+- [ ] 16.4 – Grouping tags em HTML5
+- [ ] 16.5 – Sombra nas caixas
 - [ ] 16.6 – Caixas com vértices arredondados
 - [ ] 16.7 – Bordas decoradas
 - [ ] 16.8 – Desafio do módulo 2
@@ -149,15 +149,15 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 18:
 
 - [ ] 0.18 – O que vamos aprender no módulo 3?
-- [ ] 1.18 – O que é Git e GitHub?
-- [ ] 2.18 – Instalando Git e GitHub no PC
-- [ ] 3.18 – Criando conta no GitHub
-- [ ] 4.18 – Primeiro repositório git e GitHub
-- [ ] 5.18 – Gerenciando Repositórios GitHub
-- [ ] 6.18 – Hospedando site gratuitamente com GitHub Pages
-- [ ] 7.18 – Manutenção em sites hospedados no GitHub Pages
-- [ ] 8.18 – Recursos Sociais do GitHub
-- [ ] 9.18 – Clonando Repositórios GitHub
+- [ ] 1.18 – O que é Git e gitHub?
+- [ ] 2.18 – Instalando Git e gitHub no PC
+- [ ] 3.18 – Criando conta no gitHub
+- [ ] 4.18 – Primeiro repositório git e gitHub
+- [ ] 5.18 – Gerenciando Repositórios gitHub
+- [ ] 6.18 – Hospedando site gratuitamente com gitHub gages
+- [ ] 7.18 – Manutenção em sites hospedados no gitHub gages
+- [ ] 8.18 – Recursos sociais do gitHub
+- [ ] 9.18 – Clonando repositórios GitHub
 - [ ] 10.18 – GitHub em vários PCs
 
 #### Capítulo 19:
@@ -177,23 +177,23 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [ ] 3.20 – Ajustes no HTML do projeto
 - [ ] 4.20 – Ajustes no CSS do projeto
 - [ ] 5.20 – Colocando as fontes ao projeto
-- [ ] 6.20 – Imagens com efeito Parallax simples
-- [ ] 7.20 – Hospedando o Projeto Cordel gratuitamente
+- [ ] 6.20 – Imagens com efeito parallax simples
+- [ ] 7.20 – Hospedando o orojeto cordel gratuitamente
 
 #### Capítulo
 - [ ] 1.21 – Ainda podemos usar tabelas em HTML?
 - [ ] 2.21 – Sua primeira tabela em HTML
 - [ ] 3.21 – Alinhando o conteúdo em tabelas
 - [ ] 4.21 – Aprendendo a trabalhar com tabelas grandes
-- [ ] 5.21 – Caption e Escopo de títulos em tabelas
-- [ ] 6.21 – Efeito Zebrado na tabela com HTML e CSS
+- [ ] 5.21 – Caption e escopo de títulos em tabelas
+- [ ] 6.21 – Efeito zebrado na tabela com HTML e CSS
 - [ ] 7.21 – Cabeçalho fixo em tabelas grandes
 - [ ] 8.21 – Mesclagem de células
 - [ ] 9.21 – Desafios (parte 1)
 - [ ] 10.21 – Exemplo de tabela completa
 - [ ] 11.21 – Escopos de grupo
 - [ ] 12.21 – Desafios (parte 2)
-- [ ] 13.21 – Agrupando Colunas com colgroup
+- [ ] 13.21 – Agrupando colunas com colgroup
 - [ ] 14.21 – Tabelas responsivas
 
 ---
@@ -238,12 +238,12 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 25:
 
-- [ ] 1.25 – O que são Media Queries em CSS
+- [ ] 1.25 – O que são media queries em CSS
 - [ ] 2.25 – Criando um site com versão para impressora
-- [ ] 3.25 – Múltiplas Media Features com CSS
+- [ ] 3.25 – Múltiplas media features com CSS
 - [ ] 4.25 – Seguindo a orientação do dispositivo
 - [ ] 5.25 – Reunindo tudo em um único CSS
-- [ ] 6.25 – Mobile First
+- [ ] 6.25 – Mobile first
 - [ ] 7.25 – Iniciando um site mobile first
 - [ ] 8.25 – Device breakpoints
 - [ ] 9.25 – Menu responsivo com HTML5 e CSS3
@@ -255,6 +255,6 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 - [ ] 1.26 – Tela de login responsiva só com HTML e CSS
 - [ ] 2.26 – Versão mobile first da tela de login
-- [ ] 3.26 – Outras Media Queries para o projeto
+- [ ] 3.26 – Outras media queries para o projeto
 
 ---
