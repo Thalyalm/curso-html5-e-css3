@@ -94,7 +94,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 4.13 – Paleta de cores
 - [x] 5.13 – Como capturar cores da tela?
 - [x] 6.13 – Como criar degradê com css?
-- [ ] 7.13 – Criando um exemplo real
+- [x] 7.13 – Criando um exemplo real
 
 #### Capítulo 14:
 
