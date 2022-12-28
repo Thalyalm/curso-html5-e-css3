@@ -3,15 +3,24 @@
 * {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* height: 100%; */
-    color: #ffffff;
 }
 
 body{
     background-color: #003547;
 }
 
+main {
+    background-color: #005572;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px #001d27;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
 h1 {
     color: #ED8B16;
+    text-align: center;
 }
 
 h2 {
@@ -19,5 +28,6 @@ h2 {
 }
 
 p {
-    text-align: justify;
+    color: #ffffff;
+    text-align: justify;   
 }
