@@ -172,7 +172,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 20:
 
-- [ ] 1.20 – Um projeto completo usando HTML e css
+- [ ] 1.20 – Um projeto completo usando html e css
 - [ ] 2.20 – Download e organização dos arquivos
 - [ ] 3.20 – Ajustes no html do projeto
 - [ ] 4.20 – Ajustes no css do projeto
