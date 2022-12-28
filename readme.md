@@ -150,7 +150,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 - [ ] 0.18 – O que vamos aprender no módulo 03?
 - [ ] 1.18 – O que é git e gitHub?
-- [ ] 2.18 – Instalando git e gitHub no PC
+- [ ] 2.18 – Instalando git e gitHub no pc
 - [ ] 3.18 – Criando conta no gitHub
 - [ ] 4.18 – Primeiro repositório git e gitHub
 - [ ] 5.18 – Gerenciando repositórios gitHub
@@ -186,7 +186,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [ ] 3.21 – Alinhando o conteúdo em tabelas
 - [ ] 4.21 – Aprendendo a trabalhar com tabelas grandes
 - [ ] 5.21 – Caption e escopo de títulos em tabelas
-- [ ] 6.21 – Efeito zebrado na tabela com HTML e css
+- [ ] 6.21 – Efeito zebrado na tabela com html e css
 - [ ] 7.21 – Cabeçalho fixo em tabelas grandes
 - [ ] 8.21 – Mesclagem de células
 - [ ] 9.21 – Desafios (parte 1)
