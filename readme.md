@@ -99,7 +99,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 14:
 
 - [x] 1.14 – Primeiros passos em tipografia
-- [ ] 2.14 – Anatomia do tipo
+- [x] 2.14 – Anatomia do tipo
 - [ ] 3.14 – Famílias de fonte com css
 - [ ] 4.14 – Tamanho de fonte e suas medidas
 - [ ] 5.14 – Peso, estilo e shorthand font
