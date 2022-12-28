@@ -49,7 +49,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 8:
 
 - [x] 1.8 – Semântica na html5 é importante
-- [x] 2.8 – Negrito e ttálico do jeito certo
+- [x] 2.8 – Negrito e itálico do jeito certo
 - [x] 3.8 – Formatações adicionais em html
 - [x] 4.8 – Citações e códigos
 
@@ -125,7 +125,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [ ] 16.5 – Sombra nas caixas
 - [ ] 16.6 – Caixas com vértices arredondados
 - [ ] 16.7 – Bordas decoradas
-- [ ] 16.8 – Desafio do módulo 2
+- [ ] 16.8 – Desafio do módulo 02
 
 #### Capítulo 17:
 
@@ -246,7 +246,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [ ] 6.25 – Mobile first
 - [ ] 7.25 – Iniciando um site mobile first
 - [ ] 8.25 – Device breakpoints
-- [ ] 9.25 – Menu responsivo com HTML5 e css3
+- [ ] 9.25 – Menu responsivo com html5 e css3
 - [ ] 10.25 – Configurando o layout do projeto
 - [ ] 11.25 – Criando um menu hambúrguer
 - [ ] 12.25 – Media queries para outros dispositivos
