@@ -107,7 +107,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 7.14 – Usando fontes externas baixadas
 - [x] 8.14 – Capturando as fontes usadas em um site
 - [x] 9.14 – Detectando fontes dentro de imagens
-- [ ] 10.14 – Alinhamento de textos com CSS
+- [x] 10.14 – Alinhamento de textos com CSS
 
 #### Capítulo 15:
 
