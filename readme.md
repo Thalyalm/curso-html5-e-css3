@@ -101,7 +101,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 1.14 – Primeiros passos em tipografia
 - [x] 2.14 – Anatomia do tipo
 - [x] 3.14 – Famílias de fonte com CSS
-- [ ] 4.14 – Tamanho de fonte e suas medidas
+- [x] 4.14 – Tamanho de fonte e suas medidas
 - [ ] 5.14 – Peso, estilo e shorthand font
 - [ ] 6.14 – Usando google fonts
 - [ ] 7.14 – Usando fontes externas baixadas
