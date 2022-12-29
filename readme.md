@@ -104,7 +104,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 4.14 – Tamanho de fonte e suas medidas
 - [x] 5.14 – Peso, estilo e shorthand font
 - [x] 6.14 – Usando google fonts
-- [ ] 7.14 – Usando fontes externas baixadas
+- [x] 7.14 – Usando fontes externas baixadas
 - [ ] 8.14 – Capturando as fontes usadas em um site
 - [ ] 9.14 – Detectando fontes dentro de imagens
 - [ ] 10.14 – Alinhamento de textos com CSS
