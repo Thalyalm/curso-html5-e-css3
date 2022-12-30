@@ -114,7 +114,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 15.1 – Usando o id com CSS
 - [x] 15.2 – As diferenças entre id e class
 - [x] 15.3 – Pseudo-classes em CSS
-- [ ] 15.4 – Pseudo-elementos em CSS
+- [x] 15.4 – Pseudo-elementos em CSS
 
 #### Capítulo 16:
 
