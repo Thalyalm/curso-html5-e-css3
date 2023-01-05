@@ -118,7 +118,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 
 #### Capítulo 16:
 
-- [ ] 16.1 – Modelo de caixas: primeiros passos
+- [x] 16.1 – Modelo de caixas: primeiros passos
 - [ ] 16.2 – Modelo de caixas na prática (parte 1)
 - [ ] 16.3 – Modelo de Caixas na prática (parte 2)
 - [ ] 16.4 – Grouping tags em HTML5
