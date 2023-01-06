@@ -12,6 +12,8 @@ header {
 nav {
     background-color: rgb(174, 174, 174);
     padding: 3px;
+    box-shadow: 2px 2px 3px black;
+
 }
 
 nav > a {
@@ -44,6 +46,10 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 1px;
+    padding: 4px;
+    margin: 0px;
+}
+
+footer > p {
     margin: 0px;
 }
