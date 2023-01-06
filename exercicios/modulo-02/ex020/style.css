@@ -1,0 +1,21 @@
+/*
+
+@charset "UTF-8"
+
+div {
+    display: inline-block;
+    background-color: lightblue;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    
+    /* weight(peso), width(largura), heigth(altura)
+}
+
+
+div:hover {
+    background-color: yellow;
+}
+
+*/
