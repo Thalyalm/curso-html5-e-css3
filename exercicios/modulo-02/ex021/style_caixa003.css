@@ -1,5 +1,5 @@
 h1 {
     border: 12px solid transparent;
     padding: 10px;
-    border-image: url("borda.pgn") 27 repeat;
+    border-image: url("borda.png") 27 repeat;
 }
