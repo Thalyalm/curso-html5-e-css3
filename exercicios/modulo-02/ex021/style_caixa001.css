@@ -1,0 +1,16 @@
+h1 {
+    background-color: blue;
+    width: 235px;
+
+    border: 10px solid darkblue;
+
+    padding: 10px;
+
+    margin: 10px 10px 40px 20px;
+
+    outline: 5px dashed blue;
+}
+
+a {
+    border: 10px groove blue;
+}
