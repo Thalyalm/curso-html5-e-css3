@@ -124,7 +124,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 16.4 – Grouping tags em HTML5
 - [x] 16.5 – Sombra nas caixas
 - [x] 16.6 – Caixas com vértices arredondados
-- [ ] 16.7 – Bordas decoradas
+- [x] 16.7 – Bordas decoradas
 - [ ] 16.8 – Desafio do módulo 02
 
 #### Capítulo 17:
