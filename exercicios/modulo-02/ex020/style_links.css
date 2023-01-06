@@ -1,0 +1,27 @@
+/*
+    Seletores personalizados:
+    # = id
+    . = class
+    : = pseudo-class
+    :: = pseudo-element
+    > = clildren
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: rgb(0, 0, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgb(0, 0, 0)00;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(0, 0, 66);
+}
