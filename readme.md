@@ -130,7 +130,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 #### Capítulo 17:
 
 - [x] 1.17 – Criando um projeto a partir do zero
-- [ ] 2.17 – Navegando pelo projeto pronto
+- [x] 2.17 – Navegando pelo projeto pronto
 - [ ] 3.17 – Planejando a estrutura do seu site
 - [ ] 4.17 – Transformando o layout em código
 - [ ] 5.17 – Organizando o conteúdo do site
