@@ -135,7 +135,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 4.17 – Transformando o layout em código
 - [x] 5.17 – Organizando o conteúdo do site
 - [x] 6.17 – Variáveis em CSS
-- [ ] 7.17 – Responsividade para sites
+- [x] 7.17 – Responsividade para sites
 - [ ] 8.17 – Responsividade na prática
 - [ ] 9.17 – Configurando o header e o menu do site
 - [ ] 10.17 – Melhorando o formato do conteúdo
