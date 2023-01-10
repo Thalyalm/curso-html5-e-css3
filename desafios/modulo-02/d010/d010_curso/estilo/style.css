@@ -99,12 +99,19 @@ main h2 {
     font-family: var(--font-destaque);
 }
 
-main > img {
+main p {
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 1em;
+}
+
+main img {
     width: 100%;
 }
 
 main img.pequena {
-    width: 50%;
+    max-width: 350px;
     display: block;
     margin: auto;
 }
