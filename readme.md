@@ -138,8 +138,8 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 7.17 – Responsividade para sites
 - [x] 8.17 – Responsividade na prática
 - [x] 9.17 – Configurando o header e o menu do site
-- [ ] 10.17 – Melhorando o formato do conteúdo
-- [ ] 11.17 – Rodapé, conteúdo periférico e links
+- [x] 10.17 – Melhorando o formato do conteúdo
+- [x] 11.17 – Rodapé, conteúdo periférico e links
 - [ ] 12.17 – Tornando um vídeo responsivo
 
 ---
