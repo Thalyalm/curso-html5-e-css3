@@ -140,7 +140,7 @@ Projeto criado no curso de HTML5 e CSS3 no [Curso em Vídeo](https://www.cursoem
 - [x] 9.17 – Configurando o header e o menu do site
 - [x] 10.17 – Melhorando o formato do conteúdo
 - [x] 11.17 – Rodapé, conteúdo periférico e links
-- [ ] 12.17 – Tornando um vídeo responsivo
+- [x] 12.17 – Tornando um vídeo responsivo
 
 ---
 
